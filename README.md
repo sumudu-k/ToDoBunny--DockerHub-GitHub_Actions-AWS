@@ -3,8 +3,8 @@
 ToDoBunny is a lightweight and cute to-do application built with **React (Vite)**.  
 The project showcases a full CI/CD pipeline using **Docker**, **GitHub Actions**, **Docker Hub**, and **AWS ECS (Fargate)**.
 
-> ### 🚀 Live Demo: [http://13.61.11.13/](http://13.61.11.13/) <br>
-[![Visit Live Website](https://img.shields.io/badge/Visit-Live%20Website-%23ee0000?style=for-the-badge&logo=globe&logoColor=white)](http://13.61.11.13/)
+> ### 🚀 Live Demo: [http://51.21.221.42/](http://51.21.221.42/) <br>
+[![Visit Live Website](https://img.shields.io/badge/Visit-Live%20Website-%23ee0000?style=for-the-badge&logo=globe&logoColor=white)](http://51.21.221.42/)
 ---
 
 ## 📦 Technologies Used
@@ -100,7 +100,7 @@ Every time code is pushed to the main branch, GitHub Actions will:
 ## 🌐 Visit Live on AWS
 
 App is publicly hosted on:
-#### 🔗 http://13.61.11.13
+#### 🔗 http://51.21.221.42
 
 ---
 
