@@ -115,6 +115,16 @@ App is publicly hosted on:
 ---
 
 ## 📸 Screenshots
+<p float="left">
+  <img src="https://raw.githubusercontent.com/sumudu-k/ToDoBunny--DockerHub-GitHub_Actions-AWS/refs/heads/dev/Screenshots/cover1.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/sumudu-k/ToDoBunny--DockerHub-GitHub_Actions-AWS/refs/heads/dev/Screenshots/cover2.png" width="48%" />
+
+</p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/sumudu-k/ToDoBunny--DockerHub-GitHub_Actions-AWS/refs/heads/dev/Screenshots/cover3.png" width="48%" />
+
+</p>
+
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <div style="display: inline-block; text-align: center;">
     <img src="https://drive.google.com/uc?export=view&id=1b0JJYk0w3Uyq0_cIczc2gvUfXMo80Gcc" alt="Screenshot 1" width="500" />
